@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\APIProjects\\KashmirTrampApi\\KashmirTrampApi\\KashmirTrampApi\\KashmirTrampApi.csproj": {}
+    "D:\\Projects\\KashmirTramp\\KashmirTrampAPI\\KashmirTrampApi\\KashmirTrampApi\\KashmirTrampApi\\KashmirTrampApi.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\APIProjects\\KashmirTrampApi\\KashmirTrampApi\\KashmirTrampApi\\KashmirTrampApi.csproj": {
+    "D:\\Projects\\KashmirTramp\\KashmirTrampAPI\\KashmirTrampApi\\KashmirTrampApi\\KashmirTrampApi\\KashmirTrampApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\APIProjects\\KashmirTrampApi\\KashmirTrampApi\\KashmirTrampApi\\KashmirTrampApi.csproj",
+        "projectUniqueName": "D:\\Projects\\KashmirTramp\\KashmirTrampAPI\\KashmirTrampApi\\KashmirTrampApi\\KashmirTrampApi\\KashmirTrampApi.csproj",
         "projectName": "KashmirTrampApi",
-        "projectPath": "D:\\Projects\\APIProjects\\KashmirTrampApi\\KashmirTrampApi\\KashmirTrampApi\\KashmirTrampApi.csproj",
-        "packagesPath": "C:\\Users\\junie\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\APIProjects\\KashmirTrampApi\\KashmirTrampApi\\KashmirTrampApi\\obj\\",
+        "projectPath": "D:\\Projects\\KashmirTramp\\KashmirTrampAPI\\KashmirTrampApi\\KashmirTrampApi\\KashmirTrampApi\\KashmirTrampApi.csproj",
+        "packagesPath": "C:\\Users\\1013\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\KashmirTramp\\KashmirTrampAPI\\KashmirTrampApi\\KashmirTrampApi\\KashmirTrampApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\junie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\1013\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
